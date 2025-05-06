@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+     email
+     signout
+     signin 
+     SignUp
+     login
+</body>
+</html>
